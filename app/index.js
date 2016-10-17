@@ -1,2 +1,2 @@
 import 'whatwg-fetch';
-// hello
+import data from  './data';
